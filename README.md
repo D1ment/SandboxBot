@@ -1,2 +1,2 @@
 # SandboxBot
-Bot Sand Ctf for Telegram
+Bot Sandbox Ctf for Telegram
